@@ -37,3 +37,8 @@ Uvicorn
 AWS EC2 (Ubuntu)
      ↓
 /predict
+
+**Author**
+Ratnajit Chakraborty
+https://www.linkedin.com/in/ratnajit-chakraborty-076ab520a
+
